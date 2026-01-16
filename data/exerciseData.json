@@ -1,0 +1,29 @@
+{
+  "Chin Tuck": {
+    "name": {
+      "ko": "턱 당기기 (친 턱)"
+    },
+    "bodypart": ["Neck"],
+    "exerciseType": "Bodyweight",
+    "equipment": "Mat",
+    "agonistMuscle": ["심부경추굴곡근"]
+  },
+  "Upper Trapezius Stretch": {
+    "name": {
+      "ko": "상부 승모근 스트레칭"
+    },
+    "bodypart": ["Neck"],
+    "exerciseType": "Stretching",
+    "equipment": "None",
+    "agonistMuscle": ["상부 승모근"]
+  },
+  "SCM Stretch": {
+    "name": {
+      "ko": "흉쇄유돌근 스트레칭"
+    },
+    "bodypart": ["Neck"],
+    "exerciseType": "Stretching",
+    "equipment": "None",
+    "agonistMuscle": ["흉쇄유돌근"]
+  }
+}

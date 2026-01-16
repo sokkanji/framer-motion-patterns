@@ -1,0 +1,47 @@
+{
+  "1": {
+    "title": "거북목",
+    "description": "짧아진 목 앞쪽과 가슴을 늘리고, 약해진 등 근육을 강화합니다.",
+    "exercises": [
+      "Chin Tuck",
+      "Upper Trapezius Stretch",
+      "SCM Stretch",
+      "Roll Thoracic Spine",
+      "Roll Front Shoulder and Chest",
+      "Band Pull Apart",
+      "Face Pull",
+      "Cable Low Seated Row",
+      "Cable Bar Lateral Pulldown"
+    ]
+  },
+  "2": {
+    "title": "라운드 숄더",
+    "description": "말린 어깨를 펴기 위해 대흉근을 이완하고 하부 승모근과 회전근개를 강화합니다.",
+    "exercises": [
+      "Roll Front Shoulder and Chest",
+      "Doorway Pec Stretch",
+      "Open Book Stretch",
+      "Band Pull Apart",
+      "Dumbbell Incline Y-Raise",
+      "Face Pull",
+      "Cable Low Seated Row",
+      "Cable Bar Lateral Pulldown",
+      "Cable Shoulder Internal Rotation Hold"
+    ]
+  },
+  "3": {
+    "title": "흉추 후만",
+    "description": "굳은 등뼈의 신전 기능을 회복하고 등을 펴는 근육을 활성화합니다.",
+    "exercises": [
+      "Roll Thoracic Spine",
+      "Open Book Stretch",
+      "Cat Cow Pose",
+      "Cobra Stretch",
+      "Doorway Pec Stretch",
+      "Dumbbell Incline Y-Raise",
+      "Face Pull",
+      "Cable Bar Lateral Pulldown",
+      "Bird Dog"
+    ]
+  }
+}
